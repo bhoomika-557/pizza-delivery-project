@@ -1,0 +1,113 @@
+.container {
+  text-align: center;
+  background-color: rgb(250, 241, 231);
+}
+
+img {
+  height: 180px;
+  width: 209px;
+  padding: 16px;
+}
+
+.headerr {
+  color: rgb(240, 171, 80);
+  font-family: monospace;
+  font-size: 35px;
+  font-weight: 100;
+  margin: 0;
+}
+.ourMenu {
+  font-weight: 600;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-left: 46%;
+  margin-right: 46%;
+  margin-top: 23px;
+  /* margin-bottom: 30px; */
+  padding: 4px;
+}
+.pizza {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-bottom: 4px;
+  width: 50%;
+  align-items: center;
+}
+
+.priceclass {
+  font-weight: 700;
+}
+.pizzasss {
+  flex-wrap: wrap;
+  /* height: 495px; */
+  flex-direction: row;
+  display: flex;
+  margin: 0 220px 0 220px;
+}
+.buynow {
+  background: #f9a825;
+  border-color: transparent;
+  border-radius: 7px;
+  height: 37px;
+  width: 120px;
+}
+.soldout {
+  font-size: 12px;
+  text-align: left;
+  color: grey;
+}
+.paraclass {
+  text-align: center;
+}
+.pizzasize {
+  background-color: rgb(232, 161, 111);
+  border-style: none;
+  margin-left: 3px;
+  height: 23px;
+  border-radius: 3px;
+}
+.flextype {
+  display: flex;
+  flex-direction: column;
+  height: 178px;
+}
+
+.h2class {
+  font-size: 23px;
+  font-weight: 500;
+  text-align: left;
+  height: 20%;
+  margin-top: 6px;
+}
+.paraa {
+  font-size: 12px;
+  text-align: left;
+  font-style: italic;
+  height: 20%;
+}
+.pizzasizesdiv {
+  /* margin-top: 48px; */
+  width: 154px;
+  height: 30%;
+}
+.sizePrize {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.originalprize {
+  font-size: 20px;
+}
+
+.prizeflex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+  height: 20%;
+}
+.count {
+  height: 30px;
+}

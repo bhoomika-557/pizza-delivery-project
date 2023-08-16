@@ -1,0 +1,21 @@
+.home {
+  /* height: calc(100dvh-75px); */
+  height: 90.5dvh;
+}
+.headerContainer {
+  margin-top: 200px;
+  margin-left: 180px;
+}
+.honeclass {
+  font-size: 50px;
+}
+.para {
+  font-size: x-large;
+}
+.buttonclass {
+  height: 50px;
+  width: 150px;
+  background-color: rgb(239, 163, 64);
+  border-style: none;
+  border-radius: 30px;
+}
